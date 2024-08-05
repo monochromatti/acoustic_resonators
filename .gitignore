@@ -1,3 +1,8 @@
+project_book/
+src/experiment/acoustic_resonators/asops/raw_data
+src/experiment/acoustic_resonators/stroboscopy/raw_data
+src/experiment/acoustic_resonators/xrays/raw_data
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]

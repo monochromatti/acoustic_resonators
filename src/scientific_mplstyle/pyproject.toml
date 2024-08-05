@@ -1,0 +1,19 @@
+[project]
+name = "scientific_mplstyle"
+version = "1.0.0"
+description = "Styling scientific matplotlib plots"
+requires-python = ">=3.10"
+authors = [{ name = "Mattias Matthiesen" }]
+
+[build-system]
+requires = ["setuptools>=43.0.0", "wheel"]
+build-backend = "setuptools.build_meta"
+
+
+[tool.setuptools]
+include-package-data = true
+package-dir = { "" = "src" }
+packages = ["scientific_mplstyle"]
+
+[tool.setuptools.package-data]
+scientific_mplstyle = ["colors.json", "stylesheet.mplstyle", "fonts/*"]

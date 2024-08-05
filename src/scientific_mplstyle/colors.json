@@ -1,0 +1,54 @@
+[
+    {
+        "name": "bice",
+        "hex": "#166895"
+    },
+    {
+        "name": "butterscotch",
+        "hex": "#E19C52"
+    },
+    {
+        "name": "caramel",
+        "hex": "#CE8147"
+    },
+    {
+        "name": "olivine",
+        "hex": "#B5B35C"
+    },
+    {
+        "name": "auburn",
+        "hex": "#9F3628"
+    },
+    {
+        "name": "dark_cyan",
+        "hex": "#588B8B"
+    },
+    {
+        "name": "desert_sand",
+        "hex": "#DFB29D"
+    },
+    {
+        "name": "cambridge_blue",
+        "hex": "#98A886"
+    },
+    {
+        "name": "jasper",
+        "hex": "#CE6446"
+    },
+    {
+        "name": "lapiz_lazuli",
+        "hex": "#456990"
+    },
+    {
+        "name": "murrey",
+        "hex": "#961D4E"
+    },
+    {
+        "name": "citron",
+        "hex": "#DCC65C"
+    },
+    {
+        "name": "deep_gray",
+        "hex": "#333333"
+    }
+]

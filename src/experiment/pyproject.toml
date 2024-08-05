@@ -1,0 +1,13 @@
+[project]
+name = "acoustic_resonators"
+version = "1.0"
+description = "Data analysis for the acoustic resonators project"
+requires-python = ">=3.10"
+authors = [{ name = "Mattias Matthiesen" }]
+
+[build-system]
+requires = ["setuptools>=43.0.0", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[tool.setuptools]
+packages = ["acoustic_resonators"]

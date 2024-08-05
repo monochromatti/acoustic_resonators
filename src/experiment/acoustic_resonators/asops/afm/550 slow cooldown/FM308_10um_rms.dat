@@ -1,0 +1,42 @@
+Roughness Parameters
+File:                                                               /Volumes/NO NAME/26-07-23/FM308RT/550 slow cooldown/FM308_10um0000.ibw
+Image:                                                              HeightRetrace
+Selected line:                                                      (18, 260) to (499, 283) px
+                                                                    (0.36204, 5.09785) to (9.77495, 5.54795) µm
+Cut-off:                                                            1.95512 µm
+
+Amplitude
+Roughness average (Ra):                                             336.268 pm
+Root mean square roughness (Rq):                                    435.852 pm
+Maximum height of the roughness (Rt):                               3.58999 nm
+Maximum roughness valley depth (Rv):                                1.59892 nm
+Maximum roughness peak height (Rp):                                 1.99107 nm
+Average maximum height of the roughness (Rtm):                      2.20542 nm
+Average maximum roughness valley depth (Rvm):                       959.800 pm
+Average maximum roughness peak height (Rpm):                        1.24562 nm
+Average third highest peak to third lowest valley height (R3z):     2.08290 nm
+Average third highest peak to third lowest valley height (R3z ISO): 1.26921 nm
+Average maximum height of the profile (Rz):                         2.50100 nm
+Average maximum height of the roughness (Rz ISO):                   2.20542 nm
+Maximum peak to valley roughness (Ry = Rmax):                       3.17205 nm
+Skewness (Rsk):                                                     -9.70250 × 10⁻³
+Kurtosis (Rku):                                                     4.51376
+Waviness average (Wa):                                              3.80400 nm
+Root mean square waviness (Wq):                                     4.41199 nm
+Waviness maximum height (Wy = Wmax):                                13.7872 nm
+Maximum height of the profile (Pt):                                 16.0426 nm
+
+Spatial
+Mean spacing of profile irregularities (Sm):                        429.237 nm
+Average wavelength of the profile (λa):                             353.384 nm
+Root mean square (RMS) wavelength of the profile (λq):              294.903 nm
+
+Hybrid
+Average absolute slope (Δa):                                        5.97887 × 10⁻³
+Root mean square (RMS) slope (Δq):                                  9.28624 × 10⁻³
+Length (L):                                                         9.44322 µm
+Developed profile length (L₀):                                      9.44363 µm
+Profile length ratio (lr):                                          1.00004
+
+Functional
+Swedish height (H):                                                 1.16604 nm
