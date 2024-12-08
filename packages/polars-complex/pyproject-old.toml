@@ -1,0 +1,11 @@
+[project]
+name = "polars_complex"
+version = "1.0.0"
+description = "Utility functions for working with complex numbers in Polars"
+requires-python = ">=3.10"
+license = { file = "LICENSE" }
+authors = [{ name = "Mattias Matthiesen" }]
+
+[build-system]
+requires = ["setuptools>=43.0.0", "wheel"]
+build-backend = "setuptools.build_meta"

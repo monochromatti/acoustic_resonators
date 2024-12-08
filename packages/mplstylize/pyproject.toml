@@ -1,0 +1,13 @@
+[project]
+name = "mplstylize"
+version = "0.1.0"
+description = "Styling scientific matplotlib plots"
+requires-python = ">=3.10"
+authors = [{ name = "Mattias Matthiesen" }]
+
+[build-system]
+requires = ["setuptools>=43.0.0", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[tool.setuptools.package-data]
+mplstylize = ["colors.json", "stylesheet.mplstyle", "fonts/*"]
