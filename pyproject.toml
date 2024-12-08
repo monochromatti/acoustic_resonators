@@ -1,0 +1,39 @@
+[project]
+name = "acoustic-resonators"
+version = "0.1.0"
+description = "Data analysis for a nanoscale acoustic resonator experiment"
+readme = "README.md"
+requires-python = ">=3.10"
+dependencies = [
+    "ipykernel>=6.29.5",
+    "lmfit>=1.3.2",
+    "matplotlib>=3.9.3",
+    "numpy>=2.1.3",
+    "polars>=1.17.0",
+    "scipy>=1.14.1",
+    "seaborn>=0.13.2",
+    "mplstylize",
+    "polars-complex",
+    "polars-dataset",
+]
+
+[tool.uv.sources]
+mplstylize = { workspace = true }
+polars-complex = { workspace = true }
+polars-dataset = { workspace = true }
+
+[tool.uv.workspace]
+members = ["packages/*"]
+
+[dependency-groups]
+dev = [
+    "requests>=2.32.3",
+    "tqdm>=4.67.1",
+]
+
+[project.scripts]
+data-download = "acoustic_resonators.data_download:main"
+
+[build-system]
+requires = ["hatchling"]
+build-backend = "hatchling.build"
