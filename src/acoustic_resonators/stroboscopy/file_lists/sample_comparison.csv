@@ -1,0 +1,8 @@
+# SRO: SrRuO3
+# STO: SrTiO3
+# CF: CaF2
+sample,path
+SRO/CF,20.11.19/16h03m04s_long scan on flake (pump V 1.7 mW ND 0 640nm) A+B in Stanford___294.745-293.162_.txt
+SRO/STO,20.11.19/17h38m30s_long coarse scan on film (pump V 1.7 mW ND 0 640nm) A+B in Stanford___294.875-293.031_.txt
+STO,20.11.19/18h40m57s_long scan on STO (pump V 1.7 mW 640nm) A+B in Stanford___294.792-293.010_.txt
+CF,19.11.19/18h43m33s_scan off flake (100 HWP probe)___295.473-293.639_Mag=-0.1.txt
